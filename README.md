@@ -1,1 +1,0 @@
-# JuneDevops_practical
